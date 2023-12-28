@@ -30,7 +30,7 @@ Mengimplementasikan algoritma K-Means pada aplikasi untuk melakukan segmentasi t
 
 World Happiness Report dataset adalah datasets yang saya gunakan. Data-data yang terdapat di dalam datasets ini didapatkan dari data Gallup World Poll. Datasets ini mengandung 12 Kolom dan 158 data(baris) pada saat sebelum pemrosesan data cleasing.
 
-### Variabel-variabel pada adalah sebagai berikut:
+### Variabel-variabel pada data set yang digunakan adalah sebagai berikut:
 
 -   Country : Nama negara yang bersangkutan. [object]
 -   Region : Daerah atau bagian dunia di mana negara tersebut terletak. [object]
