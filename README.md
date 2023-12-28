@@ -324,5 +324,6 @@ for label in X['Labels']:
 
 ## Deployment
 
-Streamlit : []()
+Streamlit : [World Hapiness Factor | Revan](https://world-happiness-factor.streamlit.app/)  
+
 ![image](streamlit.png)
